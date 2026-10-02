@@ -1,0 +1,4 @@
+k,mean drop top-k,mean drop random-k,gap (fidelity)
+1,0.1351,0.0332,0.1018
+3,0.301,0.0957,0.2053
+5,0.4488,0.1637,0.2851

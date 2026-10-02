@@ -1,0 +1,63 @@
+feature,noise width,share of zeros (test),forest recall
+Destination Port,916.07,0.0,0.8986
+Init_Win_bytes_forward,718.88,0.035,0.941
+Source Port,1112.48,0.0,0.9975
+Fwd IAT Min,431370.17,0.265,0.9984
+Init_Win_bytes_backward,423.32,0.097,0.9985
+Fwd Header Length,284396.35,0.0,0.9986
+Fwd Header Length.1,284396.35,0.0,0.9988
+Subflow Bwd Bytes,111903.59,0.248,0.9993
+Flow IAT Std,403630.22,0.351,0.9993
+min_seg_size_forward,51925.99,0.001,0.9994
+Subflow Bwd Packets,49.88,0.157,0.9994
+Total Fwd Packets,37.29,0.0,0.9994
+Bwd IAT Total,1441297.79,0.44,0.9994
+Average Packet Size,16.62,0.123,0.9994
+Flow Packets/s,12395.32,0.0,0.9994
+Total Length of Bwd Packets,111890.72,0.248,0.9994
+Max Packet Length,101.65,0.123,0.9995
+Bwd Header Length,83459.04,0.157,0.9995
+Bwd IAT Min,417250.65,0.443,0.9995
+Bwd Packets/s,1903.19,0.158,0.9995
+Avg Bwd Segment Size,30.31,0.248,0.9995
+Packet Length Std,31.66,0.248,0.9995
+Packet Length Variance,82676.78,0.248,0.9995
+Subflow Fwd Packets,37.29,0.0,0.9995
+Subflow Fwd Bytes,583.73,0.157,0.9995
+Active Mean,31836.87,0.801,0.9995
+Active Std,19525.97,0.926,0.9995
+Packet Length Mean,15.3,0.123,0.9995
+Bwd IAT Std,315383.9,0.711,0.9995
+Bwd IAT Max,861357.08,0.44,0.9995
+Bwd Packet Length Min,3.45,0.508,0.9995
+Bwd Packet Length Mean,30.31,0.248,0.9995
+Flow Bytes/s,1284259.56,0.123,0.9995
+Bwd IAT Mean,446283.05,0.44,0.9995
+Total Backward Packets,49.88,0.157,0.9995
+Bwd Packet Length Max,97.52,0.248,0.9995
+Fwd IAT Std,483538.3,0.626,0.9995
+Protocol,0.26,0.0,0.9996
+Active Min,28275.52,0.801,0.9996
+Idle Mean,1184700.86,0.798,0.9996
+Total Length of Fwd Packets,584.7,0.157,0.9996
+Fwd Packet Length Max,36.04,0.157,0.9996
+Fwd Packet Length Min,3.01,0.466,0.9996
+Fwd Packet Length Mean,9.34,0.157,0.9996
+Idle Std,231163.34,0.918,0.9996
+Active Max,51054.44,0.801,0.9996
+act_data_pkt_fwd,32.19,0.338,0.9996
+Idle Max,1221727.47,0.798,0.9996
+Avg Fwd Segment Size,9.34,0.157,0.9996
+Bwd Packet Length Std,42.09,0.713,0.9996
+Down/Up Ratio,0.03,0.37,0.9996
+Flow IAT Mean,225910.37,0.001,0.9996
+Min Packet Length,1.25,0.476,0.9996
+Fwd IAT Total,1683122.13,0.253,0.9996
+Fwd Packets/s,12044.63,0.001,0.9996
+Fwd Packet Length Std,14.12,0.651,0.9996
+Idle Min,1171326.12,0.798,0.9996
+Flow IAT Max,1226306.11,0.001,0.9997
+Flow IAT Min,147610.53,0.027,0.9997
+Flow Duration,1687006.76,0.001,0.9997
+Fwd IAT Mean,478200.81,0.253,0.9997
+Fwd IAT Max,1229841.99,0.253,0.9997

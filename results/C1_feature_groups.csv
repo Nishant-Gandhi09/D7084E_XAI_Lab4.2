@@ -1,0 +1,81 @@
+,group
+Source Port,Free
+Destination Port,Fixed
+Protocol,Fixed
+Flow Duration,Free
+Total Fwd Packets,Costly
+Total Backward Packets,Fixed
+Total Length of Fwd Packets,Costly
+Total Length of Bwd Packets,Fixed
+Fwd Packet Length Max,Free
+Fwd Packet Length Min,Free
+Fwd Packet Length Mean,Free
+Fwd Packet Length Std,Free
+Bwd Packet Length Max,Fixed
+Bwd Packet Length Min,Fixed
+Bwd Packet Length Mean,Fixed
+Bwd Packet Length Std,Fixed
+Flow Bytes/s,Fixed
+Flow Packets/s,Fixed
+Flow IAT Mean,Free
+Flow IAT Std,Free
+Flow IAT Max,Free
+Flow IAT Min,Free
+Fwd IAT Total,Free
+Fwd IAT Mean,Free
+Fwd IAT Std,Free
+Fwd IAT Max,Free
+Fwd IAT Min,Free
+Bwd IAT Total,Fixed
+Bwd IAT Mean,Fixed
+Bwd IAT Std,Fixed
+Bwd IAT Max,Fixed
+Bwd IAT Min,Fixed
+Fwd PSH Flags,Fixed
+Bwd PSH Flags,Fixed
+Fwd URG Flags,Fixed
+Bwd URG Flags,Fixed
+Fwd Header Length,Free
+Bwd Header Length,Fixed
+Fwd Packets/s,Costly
+Bwd Packets/s,Fixed
+Min Packet Length,Fixed
+Max Packet Length,Fixed
+Packet Length Mean,Fixed
+Packet Length Std,Fixed
+Packet Length Variance,Fixed
+FIN Flag Count,Fixed
+SYN Flag Count,Fixed
+RST Flag Count,Fixed
+PSH Flag Count,Fixed
+ACK Flag Count,Fixed
+URG Flag Count,Fixed
+CWE Flag Count,Fixed
+ECE Flag Count,Fixed
+Down/Up Ratio,Fixed
+Average Packet Size,Fixed
+Avg Fwd Segment Size,Free
+Avg Bwd Segment Size,Fixed
+Fwd Header Length.1,Free
+Fwd Avg Bytes/Bulk,Costly
+Fwd Avg Packets/Bulk,Costly
+Fwd Avg Bulk Rate,Costly
+Bwd Avg Bytes/Bulk,Fixed
+Bwd Avg Packets/Bulk,Fixed
+Bwd Avg Bulk Rate,Fixed
+Subflow Fwd Packets,Costly
+Subflow Fwd Bytes,Costly
+Subflow Bwd Packets,Fixed
+Subflow Bwd Bytes,Fixed
+Init_Win_bytes_forward,Free
+Init_Win_bytes_backward,Fixed
+act_data_pkt_fwd,Costly
+min_seg_size_forward,Free
+Active Mean,Free
+Active Std,Free
+Active Max,Free
+Active Min,Free
+Idle Mean,Free
+Idle Std,Free
+Idle Max,Free
+Idle Min,Free

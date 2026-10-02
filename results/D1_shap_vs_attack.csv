@@ -1,0 +1,11 @@
+SHAP top 10,SHAP group,mean |SHAP|,attacker top 10,attacker group
+Destination Port,Fixed,0.0418,act_data_pkt_fwd,Costly
+Packet Length Std,Fixed,0.0228,Fwd Packet Length Min,Free
+Bwd Packet Length Std,Fixed,0.022,Subflow Fwd Packets,Costly
+Average Packet Size,Fixed,0.022,Total Fwd Packets,Costly
+Source Port,Free,0.0211,Active Std,Free
+Init_Win_bytes_backward,Fixed,0.0209,Total Length of Fwd Packets,Costly
+Init_Win_bytes_forward,Free,0.0205,Fwd Header Length.1,Free
+Packet Length Variance,Fixed,0.02,Subflow Fwd Bytes,Costly
+Subflow Bwd Bytes,Fixed,0.0193,Flow IAT Min,Free
+Total Length of Bwd Packets,Fixed,0.0183,Init_Win_bytes_forward,Free

@@ -1,0 +1,11 @@
+,times changed,group
+act_data_pkt_fwd,27,Costly
+Fwd Packet Length Min,27,Free
+Subflow Fwd Packets,20,Costly
+Total Fwd Packets,20,Costly
+Active Std,18,Free
+Total Length of Fwd Packets,16,Costly
+Fwd Header Length.1,16,Free
+Subflow Fwd Bytes,10,Costly
+Flow IAT Min,10,Free
+Init_Win_bytes_forward,10,Free

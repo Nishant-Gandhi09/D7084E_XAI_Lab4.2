@@ -1,0 +1,4 @@
+model,F1 clean,F1 5% noise,F1 10% missing,recall clean,recall 5% noise,recall 10% missing,FAR 10% missing
+tree,0.9958,0.5803,0.9218,0.9995,0.2523,0.9493,0.0525
+logreg,0.886,0.8329,0.7099,0.967,0.8601,0.7696,0.2235
+forest,0.9993,0.4465,0.9894,0.9993,0.0007,0.969,0.0007

@@ -1,0 +1,51 @@
+,p_before,p_after,evaded,n_features,changed,attack type
+468789,1.0,0.4766666666666667,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Flow IAT Min, Flow Duration",PortScan
+391488,1.0,0.4066666666666667,True,4,"Flow IAT Min, Flow IAT Mean, Flow IAT Max, Flow Duration",PortScan
+81109,1.0,0.4666666666666667,True,2,"Init_Win_bytes_forward, Fwd IAT Min",DDoS
+65655,1.0,0.4033333333333333,True,2,"Init_Win_bytes_forward, Fwd IAT Min",DDoS
+2667861,1.0,0.7766666666666666,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+2673649,1.0,0.51,False,5,"Init_Win_bytes_forward, Flow IAT Max, Flow IAT Min, Fwd Header Length.1, Subflow Fwd Packets",DoS Hulk
+2705259,1.0,0.77,False,5,"Fwd Packet Length Min, act_data_pkt_fwd, Active Std, Subflow Fwd Bytes, Fwd Packet Length Std",DoS Hulk
+19970,1.0,0.6433333333333333,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Fwd Header Length.1, Subflow Fwd Packets, Total Length of Fwd Packets",DDoS
+136375,1.0,0.6666666666666666,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Fwd Header Length.1, Total Length of Fwd Packets, Total Fwd Packets",DDoS
+472256,1.0,0.4766666666666667,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Flow IAT Min, Flow Duration",PortScan
+2549471,1.0,0.7633333333333333,False,5,"Fwd Packet Length Min, act_data_pkt_fwd, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+2633506,1.0,0.75,False,5,"act_data_pkt_fwd, Active Std, Fwd Packet Length Min, Subflow Fwd Packets, Subflow Fwd Bytes",DoS Hulk
+440289,1.0,0.49,True,3,"Flow IAT Min, Flow IAT Mean, Flow IAT Max",PortScan
+47229,1.0,0.73,False,5,"Fwd Packet Length Min, act_data_pkt_fwd, Active Std, Subflow Fwd Packets, Total Fwd Packets",DDoS
+3000113,1.0,0.6533333333333333,False,4,"act_data_pkt_fwd, Fwd Packet Length Max, Fwd Packet Length Min, Fwd IAT Min",DoS GoldenEye
+197100,1.0,0.66,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Fwd Header Length.1, Total Length of Fwd Packets, Total Fwd Packets",DDoS
+131893,1.0,0.7566666666666667,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DDoS
+2619739,1.0,0.76,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+430823,1.0,0.46,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Fwd Header Length.1, Flow IAT Mean",PortScan
+371168,1.0,0.4666666666666667,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Flow IAT Min, Flow Duration",PortScan
+394197,1.0,0.46,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Fwd Header Length.1, Flow IAT Mean",PortScan
+2714449,1.0,0.7633333333333333,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+55188,1.0,0.7033333333333334,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Fwd Header Length.1, Subflow Fwd Packets",DDoS
+2586234,1.0,0.21,True,1,Init_Win_bytes_forward,DoS Hulk
+141735,1.0,0.76,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DDoS
+2042520,1.0,0.4766666666666667,True,4,"Init_Win_bytes_forward, Total Length of Fwd Packets, Total Fwd Packets, Subflow Fwd Packets",FTP-Patator
+97299,1.0,0.64,False,5,"act_data_pkt_fwd, Total Fwd Packets, Fwd Header Length.1, Fwd Packet Length Min, Total Length of Fwd Packets",DDoS
+2504788,1.0,0.6666666666666666,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Fwd Header Length.1, Subflow Fwd Packets, Active Std",DoS Hulk
+363176,1.0,0.41333333333333333,True,4,"Flow IAT Min, Flow IAT Mean, Flow Duration, Flow IAT Max",PortScan
+91143,1.0,0.7133333333333334,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Fwd Header Length.1, Fwd Header Length",DDoS
+134956,1.0,0.6466666666666666,False,5,"act_data_pkt_fwd, Total Fwd Packets, Fwd Header Length.1, Fwd Packet Length Min, Subflow Fwd Packets",DDoS
+58632,1.0,0.6366666666666667,False,5,"act_data_pkt_fwd, Total Fwd Packets, Fwd Header Length.1, Fwd Packet Length Min, Total Length of Fwd Packets",DDoS
+2616257,1.0,0.76,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+2548227,1.0,0.7633333333333333,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+357935,1.0,0.42333333333333334,True,4,"Flow IAT Min, Flow IAT Mean, Flow Duration, Flow IAT Max",PortScan
+92594,1.0,0.77,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Fwd Header Length.1, Subflow Fwd Packets",DDoS
+2551249,1.0,0.7533333333333333,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+82258,1.0,0.41333333333333333,True,2,"Init_Win_bytes_forward, Fwd IAT Min",DDoS
+159795,1.0,0.7666666666666667,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DDoS
+384693,1.0,0.4033333333333333,True,4,"Flow IAT Min, Flow IAT Mean, Flow IAT Max, Flow Duration",PortScan
+191183,1.0,0.6366666666666667,False,5,"act_data_pkt_fwd, Total Fwd Packets, Fwd Header Length.1, Fwd Packet Length Min, Total Length of Fwd Packets",DDoS
+2749066,1.0,0.31,True,1,Init_Win_bytes_forward,DoS Hulk
+135779,1.0,0.47,True,2,"Init_Win_bytes_forward, Fwd IAT Min",DDoS
+2635098,1.0,0.3933333333333333,True,1,Init_Win_bytes_forward,DoS Hulk
+352911,1.0,0.4666666666666667,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Flow IAT Mean, Flow IAT Min",PortScan
+33597,1.0,0.6566666666666666,False,5,"act_data_pkt_fwd, Total Fwd Packets, Fwd Packet Length Min, Fwd Header Length.1, Total Length of Fwd Packets",DDoS
+366502,1.0,0.48333333333333334,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Fwd IAT Min, Flow Duration",PortScan
+36627,1.0,0.4533333333333333,True,2,"Init_Win_bytes_forward, Fwd IAT Min",DDoS
+2708954,1.0,0.7633333333333333,False,5,"act_data_pkt_fwd, Fwd Packet Length Min, Active Std, Subflow Fwd Packets, Total Fwd Packets",DoS Hulk
+419192,1.0,0.4533333333333333,True,4,"Subflow Fwd Bytes, Total Length of Fwd Packets, Flow IAT Mean, Fwd Header Length.1",PortScan
