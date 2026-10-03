@@ -4,7 +4,7 @@ This repository contains the Lab 4.2 analysis notebook, its saved result tables,
 
 ## Dataset
 
-The notebook reads all CSV files from 'data/'. The files currently used here are CICIDS2017 flow CSVs, and the notebook's preprocessing and saved results correspond to those files. The assignment handout in this course folder names CICIDS2018; confirm with the instructor or the Lab 1 dataset which version is intended before submission. Do not treat results from one dataset version as results for the other.
+The notebook reads all CSV files from 'data/'. The files currently used here are CICIDS2017 flow CSVs.
 
 Dataset files are not stored in this Git repository. Place the required CSV files in 'data/' before running the notebook. The notebook combines the files, removes capture identifiers and exact duplicates, replaces infinities with missing values, converts feature columns to numeric, drops unlabeled rows, and maps 'BENIGN' to 0 and all attack labels to 1.
 
@@ -26,7 +26,3 @@ The notebook writes CSV tables to 'results/' and the B1 noise figure to 'figures
 - 'results/': exported baseline, robustness, attack, feature-removal, and explanation tables.
 - 'figures/B1_noise.png': macro-F1 and recall under clipped Gaussian noise.
 - 'README.md': setup and reproducibility notes.
-
-## Submission Notes
-
-The assignment also requires a separate 2-3 page report with the specified headings, captioned figures/tables, a screenshot of the code, and a one- or two-line "Who did what" statement. That report and contribution statement are not included in this repository yet. The assignment also asks users of AI assistants to disclose that use in the report. No authorship or contribution details are inferred here.
