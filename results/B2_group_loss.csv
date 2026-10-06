@@ -1,7 +1,7 @@
 lost group,model,macro_F1,recall,FAR
 all backward fields,tree,0.6021,0.8638,0.4169
-all backward fields,logreg,0.7115,0.6047,0.1468
+all backward fields,logreg,0.7264,0.6187,0.1351
 all backward fields,forest,0.455,0.0088,0.0
 all idle/active timers,tree,0.9957,0.9994,0.0032
-all idle/active timers,logreg,0.8681,0.9058,0.0907
+all idle/active timers,logreg,0.8661,0.9014,0.0912
 all idle/active timers,forest,0.9979,0.9949,0.0004
