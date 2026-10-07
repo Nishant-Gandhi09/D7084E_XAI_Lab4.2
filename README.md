@@ -12,9 +12,13 @@ Dataset files are not stored in this Git repository. Place the required CSV file
 
 Use Python with Jupyter and these packages:
 
-'''bash
-python -m pip install jupyter numpy pandas matplotlib scipy scikit-learn shap lime
-'''
+Create a virtual environment and install the dependencies from `requirements.txt`:
+
+```bash
+python -m venv venv
+source venv/bin/activate         
+python -m pip install -r requirements.txt
+```
 
 Open 'Lab4_2_Robustness_Attacks.ipynb' in VS Code or Jupyter, select that Python environment, and run all cells from top to bottom from the repository root. 'SEED = 42' is used throughout. 'USE_SAMPLE = False' runs on the full dataset; this is computationally intensive, especially the feature-removal experiments in E2. Set it to 'True' only for a quick smoke test, not for the reported final results.
 
